@@ -1,0 +1,747 @@
+{
+    "^CEMENT":
+    {
+        "Name": "Cement",
+        "ticker": "^CEMENT",
+        "constituents":
+        [
+            "ULTRACEMCO.NS",
+            "JKCEMENT.NS",
+            "GRASIM.NS",
+            "DALBHARAT.NS",
+            "ACC.NS",
+            "BIRLACORPN.NS",
+            "ORIENTCEM.NS",
+            "INDIACEM.NS",
+            "STARCEMENT.NS"
+        ],
+        "IsCustom": true
+    },
+    "^INSURANCE":
+    {
+        "Name": "Insurance",
+        "ticker": "^INSURANCE",
+        "constituents":
+        [
+            "LICI.NS",
+            "SBILIFE.NS",
+            "HDFCLIFE.NS",
+            "ICICIGI.NS",
+            "ICICIPRULI.NS",
+            "GICRE.NS",
+            "MFSL.NS",
+            "GODIGIT.NS",
+            "NIACL.NS",
+            "NIVABUPA.NS"
+        ],
+        "IsCustom": true
+    },
+    "^AUTOANCILLARY":
+    {
+        "Name": "Auto Ancillary",
+        "ticker": "^AUTOANCILLARY",
+        "constituents":
+        [
+            "BOSCHLTD.NS",
+            "MOTHERSON.NS",
+            "UNOMINDA.NS",
+            "TIINDIA.NS",
+            "ENDURANCE.NS",
+            "SONACOMS.NS",
+            "MINDACORP.NS",
+            "ZFCVINDIA.NS",
+            "BHARATFORG.NS",
+            "MRF.NS"
+        ],
+        "IsCustom": true
+    },
+    "^DAARU":
+    {
+        "Name": "Daaru",
+        "ticker": "^DAARU",
+        "constituents":
+        [
+            "UNITDSPR.NS",
+            "UBL.NS",
+            "RADICO.NS",
+            "ABDL.NS",
+            "TI.NS",
+            "GLOBUSSPR.NS",
+            "SULA.NS"
+        ],
+        "IsCustom": true
+    },
+    "^SUTTA":
+    {
+        "Name": "Sutta",
+        "ticker": "^SUTTA",
+        "constituents":
+        [
+            "GODFRYPHLP.NS",
+            "ELITECON.BO",
+            "VSTIND.NS",
+            "NTCIND.BO",
+            "SHANTHALA.NS",
+            "RAGHUNAT.BO"
+        ],
+        "IsCustom": true
+    },
+    "^CHEMICAL":
+    {
+        "Name": "Chemical",
+        "ticker": "^CHEMICAL",
+        "constituents":
+        [
+            "PIDILITIND.NS",
+            "SRF.NS",
+            "LINDEINDIA.NS",
+            "FLUOROCHEM.NS",
+            "GODREJIND.NS",
+            "DEEPAKNTR.NS",
+            "NAVINFLUOR.NS",
+            "TATACHEM.NS",
+            "UPL.NS",
+            "BASF.NS"
+        ],
+        "IsCustom": true
+    },
+    "^CONVENTIONAL2AND3WHEELERS":
+    {
+        "Name": "Conventional 2 and 3 wheelers",
+        "ticker": "^CONVENTIONAL2AND3WHEELERS",
+        "constituents":
+        [
+            "HEROMOTOCO.NS",
+            "BAJAJ-AUTO.NS",
+            "TVSMOTOR.NS",
+            "EICHERMOT.NS",
+            "ATULAUTO.NS",
+            "JBMA.NS"
+        ],
+        "IsCustom": true
+    },
+    "^ELECTRIC2AND3WHEELERS":
+    {
+        "Name": "Electric 2 and 3 Wheelers",
+        "ticker": "^ELECTRIC2AND3WHEELERS",
+        "constituents":
+        [
+            "OLAELEC.NS",
+            "ATHERENERG.NS",
+            "TVSMOTOR.NS",
+            "BAJAJ-AUTO.NS",
+            "WARDINMOBI.BO",
+            "ATULAUTO.NS"
+        ],
+        "IsCustom": true
+    },
+    "^NIFTYEV&NEWAGEAUTOMOTIVE":
+    {
+        "Name": "Nifty EV & New Age Automotive",
+        "ticker": "^NIFTYEV&NEWAGEAUTOMOTIVE",
+        "constituents":
+        [
+            "M&M.NS",
+            "BAJAJ-AUTO.NS",
+            "MARUTI.NS",
+            "TATAMOTORS.NS",
+            "EXIDEIND.NS",
+            "MOTHERSON.NS",
+            "CGPOWER.NS",
+            "SCHAEFFLER.NS",
+            "CGPOWER.NS",
+            "ARE&M.NS",
+            "UNOMINDA.NS"
+        ],
+        "IsCustom": true
+    },
+    "^PAINT":
+    {
+        "Name": "Paint",
+        "ticker": "^PAINT",
+        "constituents":
+        [
+            "ASIANPAINT.NS",
+            "BERGEPAINT.NS",
+            "KANSAINER.NS",
+            "AKZOINDIA.NS",
+            "INDIGOPNTS.NS",
+            "SHALPAINTS.NS"
+        ],
+        "IsCustom": true
+    },
+    "^WIREANDCABLE":
+    {
+        "Name": "Wire and cable",
+        "ticker": "^WIREANDCABLE",
+        "constituents":
+        [
+            "POLYCAB.NS",
+            "FINCABLES.NS",
+            "HAVELLS.NS",
+            "KEI.NS",
+            "RRKABEL.NS",
+            "STLTECH.NS",
+            "VGUARD.NS",
+            "PLAZACABLE.NS"
+        ],
+        "IsCustom": true
+    },
+    "^HOUSINGFINANCE":
+    {
+        "Name": "Housing finance",
+        "ticker": "^HOUSINGFINANCE",
+        "constituents":
+        [
+            "LICHSGFIN.NS",
+            "PNBHOUSING.NS",
+            "BAJAJHFL.NS",
+            "AADHARHFC.NS",
+            "AAVAS.NS",
+            "HOMEFIRST.NS"
+        ],
+        "IsCustom": true
+    },
+    "^GOLDFINANCE":
+    {
+        "Name": "Gold finance",
+        "ticker": "^GOLDFINANCE",
+        "constituents":
+        [
+            "MUTHOOTFIN.NS",
+            "MANAPPURAM.NS",
+            "TITAN.NS",
+            "KALYANKJIL.NS",
+            "RAJESHEXPO.NS"
+        ],
+        "IsCustom": true
+    },
+    "^MOTORFINANCE":
+    {
+        "Name": "Motor Finance",
+        "ticker": "^MOTORFINANCE",
+        "constituents":
+        [
+            "SHRIRAMFIN.NS",
+            "M&MFIN.NS",
+            "SUNDARMFIN.NS",
+            "CHOLAFIN.NS",
+            "MUTHOOTFIN.NS"
+        ],
+        "IsCustom": true
+    },
+    "^PLASTICPIPE":
+    {
+        "Name": "Plastic pipe",
+        "ticker": "^PLASTICPIPE",
+        "constituents":
+        [
+            "SUPREMEIND.NS",
+            "ASTRAL.NS",
+            "FINPIPE.NS",
+            "TIJARIA.NS",
+            "PRINCEPIPE.NS"
+        ],
+        "IsCustom": true
+    },
+    "^IRONPIPE":
+    {
+        "Name": "Iron pipe",
+        "ticker": "^IRONPIPE",
+        "constituents":
+        [
+            "APLAPOLLO.NS",
+            "RATNAMANI.NS",
+            "JINDALSAW.NS",
+            "MAHSEAMLES.NS",
+            "ESCORTS.NS",
+            "WELCORP.NS",
+            "HITECH.NS"
+        ],
+        "IsCustom": true
+    },
+    "^WOODPRODUCTS":
+    {
+        "Name": "Wood products",
+        "ticker": "^WOODPRODUCTS",
+        "constituents":
+        [
+            "CENTURYPLY.NS",
+            "GREENPANEL.NS",
+            "GREENPLY.NS"
+        ],
+        "IsCustom": true
+    },
+    "^DELIVERY":
+    {
+        "Name": "Delivery",
+        "ticker": "^DELIVERY",
+        "constituents":
+        [
+            "ADANIPORTS.NS",
+            "JSWINFRA.NS",
+            "CONCOR.NS",
+            "DELHIVERY.NS",
+            "AEGISLOG.NS",
+            "BLUEDART.NS",
+            "BLACKBUCK.NS",
+            "SCI.NS",
+            "TVSSCS.NS",
+            "ALLCARGO.NS"
+        ],
+        "IsCustom": true
+    },
+    "^PORTSOPERATION":
+    {
+        "Name": "Ports operation",
+        "ticker": "^PORTSOPERATION",
+        "constituents":
+        [
+            "ADANIPORTS.NS",
+            "JSWINFRA.NS",
+            "GPPL.NS",
+            "ALLCARGO.NS",
+            "AEGISLOG.NS"
+        ],
+        "IsCustom": true
+    },
+    "^INDUSTRIALCONGLOMERATE":
+    {
+        "Name": "Industrial conglomerate",
+        "ticker": "^INDUSTRIALCONGLOMERATE",
+        "constituents":
+        [
+            "RELIANCE.NS",
+            "LT.NS",
+            "ADANIENT.NS",
+            "M&M.NS",
+            "BAJAJ-AUTO.NS",
+            "GODREJIND.NS",
+            "ASIANPAINT.NS",
+            "JSWSTEEL.NS",
+            "HAVELLS.NS"
+        ],
+        "IsCustom": true
+    },
+    "^ONLINEPLATFORM":
+    {
+        "Name": "Online Platform",
+        "ticker": "^ONLINEPLATFORM",
+        "constituents":
+        [
+            "ETERNAL.NS",
+            "DMART.NS",
+            "SWIGGY.NS",
+            "NAUKRI.NS",
+            "FIRSTCRY.NS",
+            "INDIAMART.NS",
+            "CARTRADE.NS",
+            "MEDPLUS.NS"
+        ],
+        "IsCustom": true
+    },
+    "^HOTEL":
+    {
+        "Name": "Hotel",
+        "ticker": "^HOTEL",
+        "constituents":
+        [
+            "INDHOTEL.NS",
+            "EIHOTEL.NS",
+            "CHALET.NS",
+            "LEMONTREE.NS",
+            "MHRIL.NS",
+            "ROHLTD.NS",
+            "KAMATHOTEL.NS"
+        ],
+        "IsCustom": true
+    },
+    "^TRAVEL":
+    {
+        "Name": "travel",
+        "ticker": "^TRAVEL",
+        "constituents":
+        [
+            "INDIGO.NS",
+            "IRCTC.NS",
+            "INDHOTEL.NS",
+            "JUBLFOOD.NS",
+            "EIHOTEL.NS",
+            "GMRAIRPORT.NS",
+            "MHRIL.NS",
+            "BLS.NS"
+        ],
+        "IsCustom": true
+    },
+    "^FMEG":
+    {
+        "Name": "FMEG",
+        "ticker": "^FMEG",
+        "constituents":
+        [
+            "HAVELLS.NS",
+            "VGUARD.NS",
+            "FINCABLES.NS",
+            "POLYCAB.NS",
+            "ORIENTELEC.NS",
+            "BAJAJELEC.NS",
+            "CROMPTON.NS",
+            "KEI.NS"
+        ],
+        "IsCustom": true
+    },
+    "^ENGINEERING":
+    {
+        "Name": "Engineering",
+        "ticker": "^ENGINEERING",
+        "constituents":
+        [
+            "LT.NS",
+            "BHEL.NS",
+            "CUMMINSIND.NS",
+            "SIEMENS.NS",
+            "THERMAX.NS",
+            "KEC.NS",
+            "ABB.NS",
+            "ENGINERSIN.NS",
+            "BGRENERGY.NS",
+            "GVT&D.NS"
+        ],
+        "IsCustom": true
+    },
+    "^SHIPBUILDINGANDSERVICING":
+    {
+        "Name": "Shipbuilding and Servicing",
+        "ticker": "^SHIPBUILDINGANDSERVICING",
+        "constituents":
+        [
+            "COCHINSHIP.NS",
+            "GRSE.NS",
+            "MAZDOCK.NS",
+            "GESHIP.NS",
+            "SCI.NS"
+        ],
+        "IsCustom": true
+    },
+    "^SEMICONDUCTOR":
+    {
+        "Name": "Semiconductor",
+        "ticker": "^SEMICONDUCTOR",
+        "constituents":
+        [
+            "HCLTECH.NS",
+            "BEL.NS",
+            "VEDL.NS",
+            "ABB.NS",
+            "CGPOWER.NS",
+            "KAYNES.NS",
+            "MOSCHIP.NS",
+            "DIXON.NS",
+            "TATAELXSI.NS",
+            "ASMS.NS"
+        ],
+        "IsCustom": true
+    },
+    "^ELECTRONICDEFENCE":
+    {
+        "Name": "Electronic defence",
+        "ticker": "^ELECTRONICDEFENCE",
+        "constituents":
+        [
+            "BEL.NS",
+            "BDL.NS",
+            "DATAPATTNS.NS",
+            "ZENTEC.NS",
+            "ASTRAMICRO.NS"
+        ],
+        "IsCustom": true
+    },
+    "^ITPRODUCTS":
+    {
+        "Name": "IT products",
+        "ticker": "^ITPRODUCTS",
+        "constituents":
+        [
+            "HCLTECH.NS",
+            "TATAELXSI.NS",
+            "MPHASIS.NS",
+            "PERSISTENT.NS",
+            "LTIM.NS",
+            "COFORGE.NS",
+            "INTELLECT.NS",
+            "RAMCOSYS.NS",
+            "NAUKRI.NS"
+        ],
+        "IsCustom": true
+    },
+    "^DATACENTER":
+    {
+        "Name": "Data center",
+        "ticker": "^DATACENTER",
+        "constituents":
+        [
+            "NETWEB.NS",
+            "AURIONPRO.NS",
+            "TECHNOE.NS",
+            "ANANTRAJ.NS",
+            "KIRLOSENG.NS",
+            "E2E.NS",
+            "BHARTIARTL.NS",
+            "RELIANCE.NS",
+            "ADANIENT.NS"
+        ],
+        "IsCustom": true
+    },
+    "^SOLARMANUFACTURINGANDMAINTENANCE":
+    {
+        "Name": "Solar manufacturing and maintenance",
+        "ticker": "^SOLARMANUFACTURINGANDMAINTENANCE",
+        "constituents":
+        [
+            "WAAREEENER.NS",
+            "WEBELSOLAR.NS",
+            "SWSOLAR.NS",
+            "TATAPOWER.NS",
+            "ADANIGREEN.NS"
+        ],
+        "IsCustom": true
+    },
+    "^ELECTRONICAPPLIANCE":
+    {
+        "Name": "Electronic appliance",
+        "ticker": "^ELECTRONICAPPLIANCE",
+        "constituents":
+        [
+            "VOLTAS.NS",
+            "BLUESTARCO.NS",
+            "AMBER.NS",
+            "CROMPTON.NS",
+            "VGUARD.NS",
+            "WHIRLPOOL.NS",
+            "EUREKAFORB.NS",
+            "TTKPRESTIG.NS",
+            "BAJAJELEC.NS",
+            "SYMPHONY.NS"
+        ],
+        "IsCustom": true
+    },
+    "^FINTECH":
+    {
+        "Name": "Fin tech",
+        "ticker": "^FINTECH",
+        "constituents":
+        [
+            "BAJFINANCE.NS",
+            "POLICYBZR.NS",
+            "PAYTM.NS",
+            "HDFCAMC.NS",
+            "CDSL.NS",
+            "CAMS.NS",
+            "TANLA.NS"
+        ],
+        "IsCustom": true
+    },
+    "^EMS":
+    {
+        "Name": "EMS",
+        "ticker": "^EMS",
+        "constituents":
+        [
+            "KAYNES.NS",
+            "SYRMA.NS",
+            "AVALON.NS",
+            "CYIENTDLM.NS",
+            "EPACK.NS"
+        ],
+        "IsCustom": true
+    },
+    "^TRANSFORMERMANUFACTURERS":
+    {
+        "Name": "Transformer manufacturers",
+        "ticker": "^TRANSFORMERMANUFACTURERS",
+        "constituents":
+        [
+            "SIEMENS.NS",
+            "CGPOWER.NS",
+            "ABB.NS",
+            "POWERINDIA.NS",
+            "BHEL.NS",
+            "SUZLON.NS",
+            "TARIL.NS",
+            "VOLTAMP.NS"
+        ],
+        "IsCustom": true
+    },
+    "^AGRICULTURE":
+    {
+        "Name": "Agriculture",
+        "ticker": "^AGRICULTURE",
+        "constituents":
+        [
+            "COROMANDEL.NS",
+            "UPL.NS",
+            "PIIND.NS",
+            "CHAMBLFERT.NS",
+            "DHANUKA.NS",
+            "GODREJAGRO.NS",
+            "KSCL.NS",
+            "TATACHEM.NS"
+        ],
+        "IsCustom": true
+    },
+    "^FISHEXPORT":
+    {
+        "Name": "Fish export",
+        "ticker": "^FISHEXPORT",
+        "constituents":
+        [
+            "AVANTIFEED.NS",
+            "APEX.NS",
+            "COASTCORP.NS",
+            "ZEAL.NS"
+        ],
+        "IsCustom": true
+    },
+    "^TEXTILESANDAPPARELS":
+    {
+        "Name": "Textiles and apparels",
+        "ticker": "^TEXTILESANDAPPARELS",
+        "constituents":
+        [
+            "PAGEIND.NS",
+            "KPRMILL.NS",
+            "TRIDENT.NS",
+            "VTL.NS",
+            "WELSPUNLIV.NS",
+            "ARVINDFASN.NS",
+            "GARFIBRES.NS",
+            "RAYMOND.NS",
+            "PEARLPOLY.NS"
+        ],
+        "IsCustom": true
+    },
+    "^TELECOMSERVICE":
+    {
+        "Name": "telecom service",
+        "ticker": "^TELECOMSERVICE",
+        "constituents":
+        [
+            "BHARTIARTL.NS",
+            "IDEA.NS",
+            "BHARTIHEXA.NS",
+            "TATACOMM.NS",
+            "INDUSTOWER.NS",
+            "MTNL.NS",
+            "TTML.NS",
+            "HFCL.NS",
+            "TEJASNET.NS",
+            "RAILTEL.NS"
+        ],
+        "IsCustom": true
+    },
+    "^TELECOMEQUIPMENTSANDACCESSORIES":
+    {
+        "Name": "Telecom Equipments and accessories",
+        "ticker": "^TELECOMEQUIPMENTSANDACCESSORIES",
+        "constituents":
+        [
+            "ITI.NS",
+            "TEJASNET.NS",
+            "STLTECH.NS",
+            "OPTIEMUS.NS",
+            "BIRLACABLE.NS"
+        ],
+        "IsCustom": true
+    },
+    "^CONVENTIONALPOWER":
+    {
+        "Name": "Conventional Power",
+        "ticker": "^CONVENTIONALPOWER",
+        "constituents":
+        [
+            "NTPC.NS",
+            "ADANIPOWER.NS",
+            "TATAPOWER.NS",
+            "JSWENERGY.NS",
+            "NHPC.NS",
+            "TORNTPOWER.NS",
+            "NLCINDIA.NS",
+            "RPOWER.NS",
+            "ADANIENSOL.NS"
+        ],
+        "IsCustom": true
+    },
+    "^RENEWABLEPOWER":
+    {
+        "Name": "Renewable power",
+        "ticker": "^RENEWABLEPOWER",
+        "constituents":
+        [
+            "ADANIGREEN.NS",
+            "NTPCGREEN.NS",
+            "ACMESOLAR.NS",
+            "INDIGRID.NS",
+            "JPPOWER.NS",
+            "RELINFRA.NS",
+            "KPIGREEN.NS",
+            "POWERGRID.NS",
+            "INOXGREEN.NS",
+            "RTNPOWER.NS"
+        ],
+        "IsCustom": true
+    },
+    "^HOSPITAL":
+    {
+        "Name": "Hospital",
+        "ticker": "^HOSPITAL",
+        "constituents":
+        [
+            "MAXHEALTH.NS",
+            "APOLLOHOSP.NS",
+            "FORTIS.NS",
+            "NH.NS",
+            "MEDANTA.NS",
+            "ASTERDM.NS",
+            "KIMS.NS",
+            "RAINBOW.NS",
+            "JLHL.NS"
+        ],
+        "IsCustom": true
+    },
+    "^TRADINGANDBROKERAGE":
+    {
+        "Name": "Trading and Brokerage",
+        "ticker": "^TRADINGANDBROKERAGE",
+        "constituents":
+        [
+            "HDFCAMC.NS",
+            "BSE.NS",
+            "MOTILALOFS.NS",
+            "ANGELONE.NS",
+            "ANANDRATHI.NS",
+            "NUVAMA.NS",
+            "PRUDENT.NS",
+            "MCX.NS",
+            "CDSL.NS"
+        ],
+        "IsCustom": true
+    },
+    "^MUTUALFUNDANDWEALTHMANAGEMENT":
+    {
+        "Name": "Mutual fund and Wealth Management",
+        "ticker": "^MUTUALFUNDANDWEALTHMANAGEMENT",
+        "constituents":
+        [
+            "HDFCAMC.NS",
+            "UTIAMC.NS",
+            "NUVAMA.NS",
+            "ANANDRATHI.NS",
+            "MOTILALOFS.NS",
+            "IIFL.NS",
+            "WEALTH.NS",
+            "JMFINANCIL.NS",
+            "EDELWEISS.NS"
+        ],
+        "IsCustom": true
+    }
+}
